@@ -16,7 +16,7 @@ func TestMain(m *testing.M) {
 	strs = []testString{
 		{"a", "aaa"},
 		{"b", "bbb"},
-		{"c", "ccc"},
+		{"c", "xxx"},
 	}
 
 	code := m.Run()

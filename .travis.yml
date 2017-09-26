@@ -1,3 +1,3 @@
 language: go
 script:
- - go test github.com/qushot/vravis-test/app -v
+ - go test ./app -v
